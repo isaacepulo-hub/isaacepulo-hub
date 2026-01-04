@@ -4,8 +4,7 @@ Je suis développeur Python débutant et je construis des projets pour progresse
 
  Ce que j’apprends
 - Python
-- Tkinter
-- developpeur python web
+- le developpement web en python
 
  Objectif
 Construire un portfolio et devenir développeur Python professionnel 
